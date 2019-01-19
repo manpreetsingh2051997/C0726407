@@ -44,3 +44,4 @@ namespace arsh
             Attendance = cAttendance;
         }
     }
+}
